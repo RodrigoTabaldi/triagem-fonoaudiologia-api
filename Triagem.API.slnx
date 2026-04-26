@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Triagem.API/Triagem.API.csproj" />
+  <Project Path="Triagem.Domain/Triagem.Domain.csproj" />
+  <Project Path="Triagem.Infrastructure/Triagem.Infrastructure.csproj" />
+</Solution>

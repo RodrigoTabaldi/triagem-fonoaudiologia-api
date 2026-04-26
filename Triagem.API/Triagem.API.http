@@ -1,0 +1,6 @@
+@Triagem.API_HostAddress = http://localhost:5036
+
+GET {{Triagem.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

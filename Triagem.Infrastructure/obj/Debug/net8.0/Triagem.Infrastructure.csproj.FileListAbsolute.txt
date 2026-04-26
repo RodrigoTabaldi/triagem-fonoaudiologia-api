@@ -1,0 +1,17 @@
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Infrastructure\bin\Debug\net8.0\Triagem.Infrastructure.deps.json
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Infrastructure\bin\Debug\net8.0\Triagem.Infrastructure.runtimeconfig.json
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Infrastructure\bin\Debug\net8.0\Triagem.Infrastructure.dll
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Infrastructure\bin\Debug\net8.0\Triagem.Infrastructure.pdb
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Infrastructure\bin\Debug\net8.0\Triagem.Domain.dll
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Infrastructure\bin\Debug\net8.0\Triagem.Domain.pdb
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Infrastructure\obj\Debug\net8.0\Triagem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Infrastructure\obj\Debug\net8.0\Triagem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Infrastructure\obj\Debug\net8.0\Triagem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Infrastructure\obj\Debug\net8.0\Triagem.Infrastructure.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Infrastructure\obj\Debug\net8.0\Triagem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Infrastructure\obj\Debug\net8.0\Triagem..39C4DF50.Up2Date
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Infrastructure\obj\Debug\net8.0\Triagem.Infrastructure.dll
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Infrastructure\obj\Debug\net8.0\refint\Triagem.Infrastructure.dll
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Infrastructure\obj\Debug\net8.0\Triagem.Infrastructure.pdb
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Infrastructure\obj\Debug\net8.0\Triagem.Infrastructure.genruntimeconfig.cache
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Infrastructure\obj\Debug\net8.0\ref\Triagem.Infrastructure.dll

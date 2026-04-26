@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Domain\bin\Debug\net8.0\Triagem.Domain.deps.json
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Domain\bin\Debug\net8.0\Triagem.Domain.runtimeconfig.json
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Domain\bin\Debug\net8.0\Triagem.Domain.dll
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Domain\bin\Debug\net8.0\Triagem.Domain.pdb
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Domain\obj\Debug\net8.0\Triagem.Domain.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Domain\obj\Debug\net8.0\Triagem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Domain\obj\Debug\net8.0\Triagem.Domain.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Domain\obj\Debug\net8.0\Triagem.Domain.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Domain\obj\Debug\net8.0\Triagem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Domain\obj\Debug\net8.0\Triagem.Domain.dll
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Domain\obj\Debug\net8.0\refint\Triagem.Domain.dll
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Domain\obj\Debug\net8.0\Triagem.Domain.pdb
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Domain\obj\Debug\net8.0\Triagem.Domain.genruntimeconfig.cache
+C:\Users\rodri\source\repos\Triagem.API\Triagem.Domain\obj\Debug\net8.0\ref\Triagem.Domain.dll
